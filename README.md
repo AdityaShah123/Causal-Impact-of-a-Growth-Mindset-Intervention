@@ -109,11 +109,9 @@ All models consistently estimate the ATE to be approximately **0.41** — indica
 
 ---
 
-## Authors
+## Author
 
 - **Aditya Shah**  
-- **Manan Parikh**  
-- **Kris Patel**  
 Course: *Statistical Modeling and Computing*  
 Rutgers University, Spring 2024
 
@@ -123,5 +121,4 @@ Rutgers University, Spring 2024
 
 - `project.Rmd` – Full analysis code  
 - `Project-Stat-Mod-Comp.html` – Final rendered report  
-- `project.pdf` – PDF version of final report  
 - `Final Poster.pdf` – Condensed summary for presentation  
